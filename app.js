@@ -43,7 +43,7 @@ fr: {
   "faq.q4": "Est-ce que je reçois un devis avant la réparation?",
   "faq.a4": "Toujours — le prix est confirmé avec vous avant qu'on touche à votre véhicule.",
   "contact.kicker": "Venez nous voir", "contact.title": "Prenez rendez-vous",
-  "contact.addr": "Adresse", "contact.phone": "Téléphone", "contact.hours": "Heures",
+  "contact.addr": "Adresse", "contact.phone": "Téléphone", "contact.email": "Courriel", "contact.hours": "Heures",
   "contact.hoursVal": "Lun – Ven : 8 h 00 – 17 h 00",
   "contact.cta": "Appelez pour réserver",
   "footer.tag": "Atelier de réparation automobile · Saint-Jean-sur-Richelieu, Québec"
@@ -92,7 +92,7 @@ en: {
   "faq.q4": "Do I get a quote before the repair?",
   "faq.a4": "Always — the price is confirmed with you before we touch your vehicle.",
   "contact.kicker": "Come see us", "contact.title": "Book your appointment",
-  "contact.addr": "Address", "contact.phone": "Phone", "contact.hours": "Hours",
+  "contact.addr": "Address", "contact.phone": "Phone", "contact.email": "Email", "contact.hours": "Hours",
   "contact.hoursVal": "Mon – Fri: 8:00 AM – 5:00 PM",
   "contact.cta": "Call now to book",
   "footer.tag": "Auto repair shop · Saint-Jean-sur-Richelieu, Quebec"
